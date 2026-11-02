@@ -1,0 +1,4 @@
+gradio>=4.44
+numpy
+opencv-python-headless>=4.8,<5
+matplotlib>=3.7
